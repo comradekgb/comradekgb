@@ -3,7 +3,6 @@
 
 <div align="center">
 
-  <img src="https://discord.c99.nl/widget/theme-4/921558491255148615.png"></img>
 
-  ![Verlox's GitHub stats](https://github-readme-stats.vercel.app/api?username=comradekgb&show_icons=true&theme=radical)
+  !KGBS's GitHub stats](https://github-readme-stats.vercel.app/api?username=comradekgb&show_icons=true&theme=radical)
 </div>
