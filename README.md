@@ -1,4 +1,4 @@
-<h1 align="center">.gg/kgbmm</h1>
+<h1 align="center">.gg/comrades</h1>
 <h2 align="center">kgb#3333</h2>
 
 <div align="center">
