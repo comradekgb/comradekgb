@@ -3,7 +3,7 @@
   <a href="https://github.com/comradekgb">
 <div style="display: inline_block"><br>
 <div style="display: inline_block"><br>
-  <img align="right" alt="kgb-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="kgb-pic" height="150" style="border-radius:50px;" src="[https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676](https://cdn.discordapp.com/attachments/869954424620077086/971980606068117554/ecb934bad970f115db656525f5080b56.jpg)">
 </div>
   
   ##
