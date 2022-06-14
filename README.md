@@ -1,7 +1,7 @@
 ## since 2020
 <div align="center">
   <a href="https://github.com/comradekgb">
-(https://cdn.discordapp.com/attachments/869954424620077086/977976696231821382/a_001499258032538eade494323c7e9060.gif)">
+https://cdn.discordapp.com/attachments/869954424620077086/977976696231821382/a_001499258032538eade494323c7e9060.gif
 </div>
   
   ##
